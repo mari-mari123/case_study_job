@@ -1,6 +1,20 @@
 # Program code
 [case_study_job.py](https://github.com/mari-mari123/case_study_job/blob/main/case_study_job.py)
 
+# Project Summary
+This project is a text-based job database management system using Python, designed without external libraries.
+
+It features:
+* A custom CSV dataset with 11 attributes and 50+ records.
+* Full CRUD (Create, Read, Update, Delete) operations implemented with file handling.
+* Menu-driven user interface for navigating operations.
+* Basic data analysis methods (e.g., null search, category checking, frequency counting, currency conversion, sorting).
+* Mathematical, statistical, and business analysis methods (e.g., average, max, min salary calculations, job analysis by salary, experience-level salary averages).
+* Use of multiple data structures like lists, dictionaries, and sets.
+* Application of core Python features such as OOP, file handling, loops, conditionals, and custom algorithms (linear search, selection, sorting).
+A main program is included to test and demonstrate each function.
+The project focuses on fundamental programming skills, algorithmic thinking, and file-based data management.
+
 # Requirements
 1. Create (or download and customize) one or more datasets (text files), related to one
 of the following topics (can be selected by the students): Products, Invoices, Cars,
