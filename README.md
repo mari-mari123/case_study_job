@@ -1,4 +1,7 @@
-# Case study (project work)
+# Program code
+[case_study_job.py](https://github.com/mari-mari123/case_study_job/blob/main/case_study_job.py)
+
+# Requirements
 1. Create (or download and customize) one or more datasets (text files), related to one
 of the following topics (can be selected by the students): Products, Invoices, Cars,
 Books, Movies, Jobs. Dataset(s) must contain at least 6 attributes in minimum 25 lines.
